@@ -2,16 +2,18 @@
   "index": "Introduction",
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
+
   "privacy-policy": {
     "title": "Privacy Policy",
     "type": "page"
   },
   "data-deletion": {
     "title": "Data Deletion",
+    "type": "page"
+  },
+
+  "about": {
+    "title": "About",
     "type": "page"
   },
   "contact": {
