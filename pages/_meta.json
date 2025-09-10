@@ -1,23 +1,8 @@
 {
   "index": "Introduction",
+  "about": "About",
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
-  "privacy-policy": {
-    "title": "Privacy-Policy",
-    "type": "page"
-  },
-  "data-deletion": {
-    "title": "Data-Deletion",
-    "type": "page"
-  },
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
-  }
+  "privacy-policy": "Privacy Policy",
+  "data-deletion": "Data Deletion"
 }
