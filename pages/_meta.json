@@ -6,6 +6,14 @@
     "title": "About",
     "type": "page"
   },
+  "privacy-policy": {
+    "title": "Privacy Policy",
+    "type": "page"
+  },
+  "data-deletion": {
+    "title": "Data Deletion",
+    "type": "page"
+  },
   "contact": {
     "title": "Contact ↗",
     "type": "page",
